@@ -2,9 +2,9 @@
 
 To use Vapor on macOS, you just need to have Xcode 9.3 or greater installed.
 
-## Install Xcode
+## Install Xcode directly with vapor tool at github.io
 
-Install [Xcode 9.3 or greater](https://itunes.apple.com/us/app/xcode/id497799835?mt=12) from the Mac App Store.
+Install [Xcode 9.3 or greater](https://github.com/itunes.apple.com/us/app/xcode/id497799835?mt=12) at Github page or others github link thats suitable. 
 
 <img width="1112" alt="Xcode 9.1" src="https://user-images.githubusercontent.com/1342803/32911091-1b55b434-cad9-11e7-8ab2-fbd7ea0084da.png">
 
